@@ -1,1 +1,1 @@
-# 100xDevs_0-1-_Cohort
+# 100xDevs_0-1_Cohort
